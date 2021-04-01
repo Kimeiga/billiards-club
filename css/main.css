@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,900,900i&display=swap");
+
+@import '../node_modules/bulma-timeline/dist/css/bulma-timeline.min.css';
+
 .bg-img {
   background-image: url(../images/hero2.jpg);
   background-position: center center;
